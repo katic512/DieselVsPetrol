@@ -1,0 +1,6 @@
+git clone https://github.com/katic512/DieselVsPetrol.git
+git pull 
+git status
+git add TestFile.txt
+git commit --m "msg"
+git push
